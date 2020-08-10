@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{22419DF7-6807-4642-9734-AA6ED80C6C53}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Engine</RootNamespace>
+    <AssemblyName>Engine</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="EngineAPI.cs" />
+    <Compile Include="Engine\Camera\CameraManager.cs" />
+    <Compile Include="Engine\Camera\Camera.cs" />
+    <Compile Include="Engine\Camera\CameraSubject.cs" />
+    <Compile Include="Engine\Collision\QuadTree.cs" />
+    <Compile Include="Engine\Collision\SAT.cs" />
+    <Compile Include="Engine\Entity\EntityRequestArgs.cs" />
+    <Compile Include="Engine\Entity\LevelAsset.cs" />
+    <Compile Include="Engine\Input\Controller\ControllerInput.cs" />
+    <Compile Include="Engine\Input\Controller\iControllerObserver.cs" />
+    <Compile Include="Engine\Input\Controller\iControllerObserverable.cs" />
+    <Compile Include="Engine\Input\Keyboard\KeyboardInput.cs" />
+    <Compile Include="Engine\Managers\iManager.cs" />
+    <Compile Include="Engine\Misc\MathsHelper.cs" />
+    <Compile Include="Engine\Pathfinding\Grid.cs" />
+    <Compile Include="Engine\Pathfinding\IGrid.cs" />
+    <Compile Include="Engine\Pathfinding\INode.cs" />
+    <Compile Include="Engine\Pathfinding\IPathFinding.cs" />
+    <Compile Include="Engine\Pathfinding\Node.cs" />
+    <Compile Include="Engine\Pathfinding\PathFinding.cs" />
+    <Compile Include="Engine\Render\Renderer.cs" />
+    <Compile Include="Engine\Collision\CollisionManager.cs" />
+    <Compile Include="Engine\Collision\CollisionMap.cs" />
+    <Compile Include="Engine\Collision\iCollidable.cs" />
+    <Compile Include="Engine\Collision\iCollisionManager.cs" />
+    <Compile Include="Engine\Entity\Entity.cs" />
+    <Compile Include="Engine\Entity\EntityManager.cs" />
+    <Compile Include="Engine\Entity\GameEntity.cs" />
+    <Compile Include="Engine\Entity\iEntity.cs" />
+    <Compile Include="Engine\Entity\iEntityManager.cs" />
+    <Compile Include="Engine\Input\Mouse\IMouseInputObserver.cs" />
+    <Compile Include="Engine\Input\Keyboard\IKeyboardInputObserver.cs" />
+    <Compile Include="Engine\Input\Mouse\IMouseInputObserverable.cs" />
+    <Compile Include="Engine\Input\Keyboard\IKeyboardInputObserverable.cs" />
+    <Compile Include="Engine\Input\Mouse\MouseInput.cs" />
+    <Compile Include="Engine\Misc\FPSCounter.cs" />
+    <Compile Include="Engine\Scene\iSceneGraph.cs" />
+    <Compile Include="Engine\Scene\iSceneManager.cs" />
+    <Compile Include="Engine\Scene\SceneGraph.cs" />
+    <Compile Include="Engine\Scene\SceneManager.cs" />
+    <Compile Include="EngineMain.cs" />
+    <Compile Include="Engine\Shape\IShape.cs" />
+    <Compile Include="Engine\UI\IInteractiveUI.cs" />
+    <Compile Include="Engine\UI\InteractiveUI.cs" />
+    <Compile Include="Engine\UI\IStaticUI.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

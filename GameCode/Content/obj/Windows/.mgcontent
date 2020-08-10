@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-bottom.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-closed.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-corner-bottom-left.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-corner-bottom-right.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-corner-top-left.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-corner-top-right.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-left.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-middle.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-open-bottom.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-open-left.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-open-right.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-open-top.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-right.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-top.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-tube-horizontal.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/wall-tube-vertical.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/default.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/pent.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/node.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/pentagon.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/random hex.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/Star.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Walls/reg-hex.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/help-me.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Abilities/AdrenalineShotAbility.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Abilities/IceAbility.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Abilities/SlugAbility.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Abilities/WallAbility.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Players/player1.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Players/player2.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Players/player3.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Players/player4.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Buttons/2player-button.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Buttons/3player-button.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Buttons/4player-button.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Buttons/start-button.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Artefacts/Artefact.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/UISeperator/2player.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/UISeperator/3player.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/UISeperator/4player.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/PlayersPath/Player1Path.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/PlayersPath/Player2Path.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/PlayersPath/Player3Path.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/PlayersPath/Player4Path.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/ArtefactsUI/UIArtefact.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Patient/Patient.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/CloseDoor.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/CloseDoorB.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/CloseDoorL.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/CloseDoorR.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/OpenDoor.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/OpenDoorB.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/OpenDoorL.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Door/OpenDoorR.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/Brown.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/Cobble.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/CrossTile.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/DiamondStyle.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightBrownDiamondStyle.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightDarkBlue.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightDarkBrown.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightDarkGreen.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightGreen.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/LightPurple.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/Sand.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Floor Tiles/WhiteBlue.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWall.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallBottom.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallBottomLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallBottomRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallTop.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallTopLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallTopRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWall.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallBottom.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallBottomLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallBottomRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallTop.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallTopLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallTopRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWall.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallBottom.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallBottomLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallBottomRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallTop.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallTopLeft.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallTopRight.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallTopRightN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/GreyWallTopLeftN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallTopRightN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BrownWallTopLeftN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallTopRightN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Wall Tiles/BlueWallTopLeftN.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Abilities/WallAbility2.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Loading/DoctorDashLoading.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Loading/LoadingBar.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player1WinsFinalLevel.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player2WinsFinalLevel.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player3WinsFinalLevel.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player4WinsFinalLevel.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player1Wins.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player2Wins.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player3Wins.png</File>
+    <File>D:/Zaib/Documents/New folder/Advanced-Game-DAE/GameCode/Content/Resources/Winning Screen/Player4Wins.png</File>
+  </SourceFiles>
+</SourceFileCollection>

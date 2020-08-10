@@ -1,0 +1,189 @@
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\Game1.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.dll
+C:\Users\warc2_16\Documents\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.pdb
+C:\Code\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+C:\Code\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.dll
+C:\Code\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.pdb
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Code\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+C:\Code\GitHub\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\University\Games\Engine\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+F:\University\Games\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+F:\University\Games\Engine\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+F:\University\Games\Engine\DemoCode\obj\x86\Debug\DemoCode.dll
+F:\University\Games\Engine\DemoCode\obj\x86\Debug\DemoCode.pdb
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\Engine.dll
+F:\University\Games\Engine\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\Engine.dll
+C:\Code\GitHub\Engine\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Zaib\Documents\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Zaib\Documents\Game Code\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+D:\Zaib\Documents\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+D:\Zaib\Documents\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+D:\Zaib\Documents\Game Code\DemoCode\obj\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\Game Code\DemoCode\obj\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\obj\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\Education\Uni\Year 4\COMP3351 - Advanced Game Design & Engineering\Milestones\Post Production\Game Code\DemoCode\obj\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Zaib\Documents\New folder\Game Code\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+D:\Zaib\Documents\New folder\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+D:\Zaib\Documents\New folder\Game Code\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+D:\Zaib\Documents\New folder\Game Code\DemoCode\obj\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\New folder\Game Code\DemoCode\obj\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\DemoCode.pdb
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\Engine.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\Engine.pdb
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\obj\x86\Debug\DemoCode.csprojAssemblyReference.cache
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\obj\x86\Debug\DemoCode.csproj.CoreCompileInputs.cache
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\obj\x86\Debug\DemoCode.csproj.CopyComplete
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\obj\x86\Debug\DemoCode.dll
+D:\Zaib\Documents\New folder\Advanced-Game-DAE\DemoCode\obj\x86\Debug\DemoCode.pdb
